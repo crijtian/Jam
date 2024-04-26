@@ -43,6 +43,11 @@ public class ButtonFunc : MonoBehaviour
         StartCoroutine(PlayAudioAndExitGame());
     }
 
+    public void Creditos()
+    {
+        StartCoroutine(PlayAudioAndLoadScene2());
+    }
+
     // Update is called once per frame
     void Update()
     {
@@ -51,22 +56,20 @@ public class ButtonFunc : MonoBehaviour
 
     IEnumerator PlayAudioAndLoadScene()
     {
-        audioSorce = GetComponent<AudioSource>();
-        audioSorce.clip = audioClip;
-        audioSorce.Play();
-
-        yield return new WaitForSeconds(audioClip.length - 1.3f);
+        yield return new WaitForSeconds(2f);
 
         SceneManager.LoadScene(1);
     }
     IEnumerator PlayAudioAndExitGame()
     {
-        audioSorce = GetComponent<AudioSource>();
-        audioSorce.clip = audioClip;
-        audioSorce.Play();
-
         yield return new WaitForSeconds(audioClip.length - 1.3f);
 
         Application.Quit();
+    }
+    IEnumerator PlayAudioAndLoadScene2()
+    {
+        yield return new WaitForSeconds(audioClip.length - 1.3f);
+
+        SceneManager.LoadScene(0);
     }
 }
