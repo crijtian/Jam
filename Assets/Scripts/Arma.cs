@@ -6,36 +6,38 @@ using UnityEngine;
 
 public class Arma : MonoBehaviour
 {
-    // Start is called before the first frame update
     private SpriteRenderer spriteRenderer;
     public new Camera camera;
+    public float moveSpeed = 5f;
+
     void Start()
     {
-        spriteRenderer=GetComponent<SpriteRenderer>();
-        
+        spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
-    // Update is called once per frame
     void Update()
     {
-        RotateTowardsMouse();        
+        RotateTowardsMouse();
+        MoveWithKeyboard();
     }
 
     private void RotateTowardsMouse()
     {
-        float angle = GetAngleTowardMouse();
-        
-        transform.rotation=Quaternion.Euler(0,0,angle);
+        Vector3 mouseWorldPosition = camera.ScreenToWorldPoint(Input.mousePosition);
+        Vector3 mouseDirection = mouseWorldPosition - transform.position;
+        mouseDirection.z = 0;
+        float angle = (Vector3.SignedAngle(Vector3.right, mouseDirection, Vector3.forward) + 360) % 360;
+        transform.rotation = Quaternion.Euler(0, 0, angle);
         spriteRenderer.flipY = angle >= 90 && angle <= 270;
     }
 
-    private float GetAngleTowardMouse()
+    private void MoveWithKeyboard()
     {
-        Vector3 mouseWorldPosition = camera.ScreenToWorldPoint(Input.mousePosition);
-        Vector3 mouseDirection=mouseWorldPosition-transform.position;
-        mouseDirection.z = 0;
-        float angle = (Vector3.SignedAngle(Vector3.right, mouseDirection, Vector3.forward) + 360) % 360;
-        return angle;
+        float horizontalInput = Input.GetAxis("Horizontal");
+        float verticalInput = Input.GetAxis("Vertical");
+
+        Vector3 movement = new Vector3(horizontalInput, verticalInput, 0f) * moveSpeed * Time.deltaTime;
+        transform.position += movement;
     }
 }
  
