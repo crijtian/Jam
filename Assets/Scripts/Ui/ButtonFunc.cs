@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class ButtonFunc : MonoBehaviour
 {
@@ -11,7 +12,18 @@ public class ButtonFunc : MonoBehaviour
     [SerializeField] GameObject bexit;
     [SerializeField] GameObject titulo;
     [SerializeField] GameObject bsound;
-    
+
+    //public AudioSource source { get { return GetComponent<AudioSource>(); } }
+    //public Button play { get { return GetComponent<Button>(); } }
+    //public AudioClip clip;
+
+    public AudioClip audioClip;
+    private AudioSource audioSorce;
+
+    //void PlaySound()
+    //{
+     //   source.PlayOneShot(clip);
+    //}
 
     private void Start()
     {
@@ -24,7 +36,9 @@ public class ButtonFunc : MonoBehaviour
 
     public void Jugar()
     {
-        SceneManager.LoadScene(1);
+        StartCoroutine(PlayAudioAndLoadScene());
+
+        //SceneManager.LoadScene(1);
         
     }
 
@@ -32,5 +46,16 @@ public class ButtonFunc : MonoBehaviour
     void Update()
     {
         
+    }
+
+    IEnumerator PlayAudioAndLoadScene()
+    {
+        audioSorce = GetComponent<AudioSource>();
+        audioSorce.clip = audioClip;
+        audioSorce.Play();
+
+        yield return new WaitForSeconds(audioClip.length - 1.3f);
+
+        SceneManager.LoadScene(1);
     }
 }
