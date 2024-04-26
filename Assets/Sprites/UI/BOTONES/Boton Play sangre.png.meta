@@ -215,7 +215,11 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Boton Play sangre_0: 7681496486201689053
+      Boton Play sangre_1: 7488656770655825933
+      Boton Play sangre_2: -8359975526376430301
+      Boton Play sangre_3: -8891367733004705665
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

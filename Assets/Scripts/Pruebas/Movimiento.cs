@@ -4,22 +4,35 @@ using UnityEngine;
 
 public class Movimiento : MonoBehaviour
 {
-    public float velocidadMovimiento = 5f; // Velocidad de movimiento del objeto
+    public float speed = 5f; // Velocidad de movimiento del jugador
+    private Rigidbody2D rb; // Referencia al Rigidbody2D del jugador
 
-    void Update()
+    void Start()
     {
-        // Captura el movimiento horizontal y vertical
-        float movimientoHorizontal = Input.GetAxis("Horizontal");
-        float movimientoVertical = Input.GetAxis("Vertical");
+        // Obtener la referencia al Rigidbody2D del jugador
+        rb = GetComponent<Rigidbody2D>();
+    }
 
-        // Combina los movimientos horizontal y vertical en un solo vector
-        Vector3 movimiento = new Vector3(movimientoHorizontal, movimientoVertical, 0);
+    void FixedUpdate()
+    {
+        // Obtener la entrada del usuario en los ejes X e Y
+        float moveHorizontal = Input.GetAxis("Horizontal");
+        float moveVertical = Input.GetAxis("Vertical");
 
-        // Normaliza el vector de movimiento para que tenga una longitud de 1
-        // Esto asegura que la velocidad sea constante en todas las direcciones
-        movimiento = movimiento.normalized;
+        // Calcular la velocidad del jugador
+        Vector2 movement = new Vector2(moveHorizontal, moveVertical) * speed;
 
-        // Aplica el movimiento al objeto
-        transform.Translate(movimiento * velocidadMovimiento * Time.deltaTime);
+        // Aplicar la velocidad al Rigidbody2D del jugador
+        rb.velocity = movement;
+    }
+
+    void OnCollisionEnter2D(Collision2D collision)
+    {
+        // Si el jugador colisiona con un objeto llamado "Wall"...
+        if (collision.gameObject.CompareTag("Wall"))
+        {
+            // Detener el movimiento del jugador
+            rb.velocity = Vector2.zero;
+        }
     }
 }

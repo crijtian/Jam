@@ -215,7 +215,11 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Boton quit balas_0: -8406365560189153068
+      Boton quit balas_1: -7641666565924397098
+      Boton quit balas_2: 6791517751673111452
+      Boton quit balas_3: 1528803483636709388
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

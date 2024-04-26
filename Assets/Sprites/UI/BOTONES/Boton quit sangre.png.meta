@@ -215,7 +215,11 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Boton quit sangre_0: 3613508162314412368
+      Boton quit sangre_1: 3403300356611149969
+      Boton quit sangre_2: 352751484042305403
+      Boton quit sangre_3: -1114728528350548917
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
