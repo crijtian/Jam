@@ -215,7 +215,11 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Boton credits balas_0: -6708268782679174028
+      Boton credits balas_1: 8205303352334924181
+      Boton credits balas_2: -5458522013134700396
+      Boton credits balas_3: -7242555388511355348
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

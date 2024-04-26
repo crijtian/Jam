@@ -215,7 +215,11 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Boton Play balas_0: 3502238270666521431
+      Boton Play balas_1: 2899479914314407679
+      Boton Play balas_2: 922575728714794756
+      Boton Play balas_3: -2901571031253351067
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
