@@ -6,7 +6,7 @@ using UnityEngine;
 public class GameManager : MonoBehaviour
 {
     public HUD hud;
-
+    public bool bandera = true;
     private int vidas = 3;
 
     public static GameManager Instance { get; internal set; }
@@ -24,6 +24,8 @@ public class GameManager : MonoBehaviour
 
     public void PerderVida()
     {
+        if (bandera)
+        {
         vidas -= 1;
 
         if (vidas == 0)
@@ -33,6 +35,7 @@ public class GameManager : MonoBehaviour
         }
 
         hud.DesactivarVida(vidas);
+       }
     }
 
     public bool RecuperarVida()
