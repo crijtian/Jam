@@ -6,6 +6,13 @@ public class oleadasAdmin : MonoBehaviour
 {
     [SerializeField] private int cantidadDeZombies = 0;
     // Método para sumar un número a la variable
+
+    //Llaves funcionales
+    public GameObject llaveF1;
+    public GameObject llaveF2;
+    public GameObject llaveF3;
+
+
     public void Sumar(int valor)
     {
         cantidadDeZombies += valor;
@@ -26,14 +33,17 @@ public class oleadasAdmin : MonoBehaviour
         }
         if (cantidadDeZombies == 20)
         {
+            llaveF1.SetActive(true);
             //mensaje siguiente ronda
         }
         if (cantidadDeZombies == 40)
         {
+            llaveF2.SetActive(true);
             //mensaje siguiente ronda
         }
         if (cantidadDeZombies > 60)
         {
+            llaveF3.SetActive(true);
             //mensaje siguiente ronda
         }
     }
