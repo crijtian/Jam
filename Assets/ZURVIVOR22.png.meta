@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ZURVIVOR22_0: 8333253677011194246
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

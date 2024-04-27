@@ -14,9 +14,12 @@ public class numeroRND : MonoBehaviour
 
     //Reacttransform
 
+    //Canvas
     public GameObject llave1;
     public GameObject llave2;
     public GameObject llave3;
+
+    
 
     void Start()
     {
@@ -51,6 +54,7 @@ public class numeroRND : MonoBehaviour
         if(hasKey == 1)
         {
             llave1.SetActive(true);
+
         }
         if (hasKey == 2)
         {

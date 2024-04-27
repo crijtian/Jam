@@ -311,7 +311,15 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ZURVIVOR 1_0: 223557364073517378
+      ZURVIVOR 1_1: 8709639109740310067
+      ZURVIVOR 1_2: -2566043392462321200
+      ZURVIVOR 1_3: 1453084472902561768
+      ZURVIVOR 1_4: 6027316497538604425
+      ZURVIVOR 1_5: -1824456226407965548
+      ZURVIVOR 1_6: -4363536046142221745
+      ZURVIVOR 1_7: -8465535802648291208
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
