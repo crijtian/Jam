@@ -16,4 +16,14 @@ public class UIController : MonoBehaviour
     {
         AudioManager.Instance.ToggleSFX();
     }
+
+    public void MusicVolume(int volume)
+    {
+        AudioManager.Instance.MusicVolume(volume);
+    }
+
+    public void SFXVolume(int volume)
+    {
+        AudioManager.Instance.SFXVolume(volume);
+    }
 }
