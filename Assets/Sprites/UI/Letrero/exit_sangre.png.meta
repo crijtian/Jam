@@ -1,0 +1,1218 @@
+fileFormatVersion: 2
+guid: 90c3854def27a41438fda28f073e9df2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2823183764507118579
+    second: exit_sangre_0
+  - first:
+      213: 8598355644162105885
+    second: exit_sangre_1
+  - first:
+      213: 51158040122102801
+    second: exit_sangre_2
+  - first:
+      213: -6017506246753350667
+    second: exit_sangre_3
+  - first:
+      213: 3089319438448158402
+    second: exit_sangre_4
+  - first:
+      213: -4409917139029625274
+    second: exit_sangre_5
+  - first:
+      213: 4737927794722811054
+    second: exit_sangre_6
+  - first:
+      213: 7343281086418368479
+    second: exit_sangre_7
+  - first:
+      213: -6830869416072361278
+    second: exit_sangre_8
+  - first:
+      213: 3281357638803937996
+    second: exit_sangre_9
+  - first:
+      213: 3123389455718101570
+    second: exit_sangre_10
+  - first:
+      213: -1649444441809957875
+    second: exit_sangre_11
+  - first:
+      213: 8743344540452835084
+    second: exit_sangre_12
+  - first:
+      213: -8810737412189611281
+    second: exit_sangre_13
+  - first:
+      213: -2415844330663438337
+    second: exit_sangre_14
+  - first:
+      213: -4838668699380341836
+    second: exit_sangre_15
+  - first:
+      213: -3051313521230399843
+    second: exit_sangre_16
+  - first:
+      213: -5542002320835095847
+    second: exit_sangre_17
+  - first:
+      213: -625969560292634407
+    second: exit_sangre_18
+  - first:
+      213: 3533134890629820936
+    second: exit_sangre_19
+  - first:
+      213: 3221404659820374765
+    second: exit_sangre_20
+  - first:
+      213: -7573027472703542078
+    second: exit_sangre_21
+  - first:
+      213: -2049431757307026262
+    second: exit_sangre_22
+  - first:
+      213: -5749266525756073783
+    second: exit_sangre_23
+  - first:
+      213: 7736327206811528092
+    second: exit_sangre_24
+  - first:
+      213: 2159065724094062563
+    second: exit_sangre_25
+  - first:
+      213: -9147985164100142231
+    second: exit_sangre_26
+  - first:
+      213: 812926064272400926
+    second: exit_sangre_27
+  - first:
+      213: 4284890164481169194
+    second: exit_sangre_28
+  - first:
+      213: -5567823175490345843
+    second: exit_sangre_29
+  - first:
+      213: -6782614614923500342
+    second: exit_sangre_30
+  - first:
+      213: 1672138867067647300
+    second: exit_sangre_31
+  - first:
+      213: -7554524030632794684
+    second: exit_sangre_32
+  - first:
+      213: 2767437124313116861
+    second: exit_sangre_33
+  - first:
+      213: 7097107717236557073
+    second: exit_sangre_34
+  - first:
+      213: -7938106713197416038
+    second: exit_sangre_35
+  - first:
+      213: 2801496448522213096
+    second: exit_sangre_36
+  - first:
+      213: 6123235222059378688
+    second: exit_sangre_37
+  - first:
+      213: -1157203001336579740
+    second: exit_sangre_38
+  - first:
+      213: 902730040542645447
+    second: exit_sangre_39
+  - first:
+      213: -2389455281960553463
+    second: exit_sangre_40
+  - first:
+      213: -244034144601188812
+    second: exit_sangre_41
+  - first:
+      213: -4941451427463401641
+    second: exit_sangre_42
+  - first:
+      213: -8162139732649295119
+    second: exit_sangre_43
+  - first:
+      213: 1347355486770853870
+    second: exit_sangre_44
+  - first:
+      213: 5533870613250358987
+    second: exit_sangre_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: exit_sangre_0
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 963
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbc81b0da6fd2720800000000000000
+      internalID: 2823183764507118579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_1
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 951
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12e1cef6ee735770800000000000000
+      internalID: 8598355644162105885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_2
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 882
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11412e867ffb5b000800000000000000
+      internalID: 51158040122102801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_3
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 825
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb829063f58d7ca0800000000000000
+      internalID: -6017506246753350667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_4
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 678
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6696e49a77fda20800000000000000
+      internalID: 3089319438448158402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_5
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 695
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6467b3f0ab3dcc2c0800000000000000
+      internalID: -4409917139029625274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_6
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 688
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac27e70a3080c140800000000000000
+      internalID: 4737927794722811054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_7
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 331
+        width: 824
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7bfc1ed3398e560800000000000000
+      internalID: 7343281086418368479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_8
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 676
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca4de32570e331a0800000000000000
+      internalID: -6830869416072361278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_9
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 669
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca5ce91369b98d20800000000000000
+      internalID: 3281357638803937996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_10
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 645
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242374b5922885b20800000000000000
+      internalID: 3123389455718101570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_11
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 591
+        width: 96
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ccc21f40ffb19e0800000000000000
+      internalID: -1649444441809957875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_12
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 619
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fca8a0989965970800000000000000
+      internalID: 8743344540452835084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_13
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 582
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea91314109f9b580800000000000000
+      internalID: -8810737412189611281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_14
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 578
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff71a268162397ed0800000000000000
+      internalID: -2415844330663438337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_15
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 573
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b322ab447899dcb0800000000000000
+      internalID: -4838668699380341836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_16
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 556
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9637bcd48e87a5d0800000000000000
+      internalID: -3051313521230399843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_17
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 544
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2db32804ad613b0800000000000000
+      internalID: -5542002320835095847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_18
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 542
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0dc8e500c1057f0800000000000000
+      internalID: -625969560292634407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_19
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 542
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8027783b677380130800000000000000
+      internalID: 3533134890629820936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_20
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 525
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deaa16a687ab4bc20800000000000000
+      internalID: 3221404659820374765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_21
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 519
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc2b3f13a337e690800000000000000
+      internalID: -7573027472703542078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_22
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 516
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa46f42dca4fe83e0800000000000000
+      internalID: -2049431757307026262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_23
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 503
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8d3454e808630b0800000000000000
+      internalID: -5749266525756073783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_24
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 503
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9be0341b94fc5b60800000000000000
+      internalID: 7736327206811528092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_25
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 494
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef195b36da86fd10800000000000000
+      internalID: 2159065724094062563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_26
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 505
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b744b16f3db0180800000000000000
+      internalID: -9147985164100142231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_27
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 485
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12ec99c2f7184b00800000000000000
+      internalID: 812926064272400926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_28
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 488
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27177bf6ecf67b30800000000000000
+      internalID: 4284890164481169194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_29
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 491
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84e5bc425e1bb2b0800000000000000
+      internalID: -5567823175490345843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_30
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 472
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4ac1d81ff4fd1a0800000000000000
+      internalID: -6782614614923500342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_31
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 459
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445f0b2b071a43710800000000000000
+      internalID: 1672138867067647300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_32
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 428
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5eaf27b60f82790800000000000000
+      internalID: -7554524030632794684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_33
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 357
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db079ece669e76620800000000000000
+      internalID: 2767437124313116861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_34
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 328
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1158192edddfd7260800000000000000
+      internalID: 7097107717236557073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_35
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 302
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9179b2900e26d190800000000000000
+      internalID: -7938106713197416038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_36
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 314
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e65fad4d2ae0e620800000000000000
+      internalID: 2801496448522213096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_37
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 307
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008620ffdf91af450800000000000000
+      internalID: 6123235222059378688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_38
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 260
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469315c500ac0ffe0800000000000000
+      internalID: -1157203001336579740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_39
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 267
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc4e926034278c00800000000000000
+      internalID: 902730040542645447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_40
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 248
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9047f08b413f6ded0800000000000000
+      internalID: -2389455281960553463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_41
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 253
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436daf90d340d9cf0800000000000000
+      internalID: -244034144601188812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_42
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 247
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f623f8b107c6bb0800000000000000
+      internalID: -4941451427463401641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_43
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 253
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2465478214abe80800000000000000
+      internalID: -8162139732649295119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_44
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 247
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee776273da4c2b210800000000000000
+      internalID: 1347355486770853870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_sangre_45
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 230
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bceb2c7c0024ccc40800000000000000
+      internalID: 5533870613250358987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

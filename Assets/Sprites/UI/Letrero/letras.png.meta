@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: 757e16f541f2f1f4abd7ce9758a5aea6
+guid: 84802ab5141517848aa5f88109630b8c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3262393938337245803
-    second: caminar5_0
+      213: -4853175238482782698
+    second: letras_0
+  - first:
+      213: 5305260067843490154
+    second: letras_1
+  - first:
+      213: 7087322626557052192
+    second: letras_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,39 +102,26 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: caminar5_0
+      name: letras_0
       rect:
         serializedVersion: 2
-        x: 377
-        y: 808
-        width: 2249
-        height: 1745
+        x: 113
+        y: 141
+        width: 224
+        height: 93
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b6aaaf3800a564d20800000000000000
-      internalID: 3262393938337245803
+      spriteID: 616138575de06acb0800000000000000
+      internalID: -4853175238482782698
       vertices: []
       indices: 
       edges: []
@@ -136,7 +129,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 15165901ad4a60345ace6f957495598d
     internalID: 0
     vertices: []
     indices: 
@@ -144,7 +137,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      caminar5_0: 3262393938337245803
+      letras_0: -4853175238482782698
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

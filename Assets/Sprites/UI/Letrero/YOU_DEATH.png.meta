@@ -1,10 +1,67 @@
 fileFormatVersion: 2
-guid: 757e16f541f2f1f4abd7ce9758a5aea6
+guid: 9c92694f40b66d14db228bce4b22f8b1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3262393938337245803
-    second: caminar5_0
+      213: -2553524548437461712
+    second: YOU_DEATH_0
+  - first:
+      213: 5268763709779849215
+    second: YOU_DEATH_1
+  - first:
+      213: 4482030650227158934
+    second: YOU_DEATH_2
+  - first:
+      213: 2076376556464127770
+    second: YOU_DEATH_3
+  - first:
+      213: 7368955903326495658
+    second: YOU_DEATH_4
+  - first:
+      213: 3009029609443187096
+    second: YOU_DEATH_5
+  - first:
+      213: -2863040548627592935
+    second: YOU_DEATH_6
+  - first:
+      213: -4315121982838038869
+    second: YOU_DEATH_7
+  - first:
+      213: -1826363460622839801
+    second: YOU_DEATH_8
+  - first:
+      213: -9129522512226781387
+    second: YOU_DEATH_9
+  - first:
+      213: 2216366728218448535
+    second: YOU_DEATH_10
+  - first:
+      213: -5992851616207960613
+    second: YOU_DEATH_11
+  - first:
+      213: -9198005344879618860
+    second: YOU_DEATH_12
+  - first:
+      213: 7068189167814007141
+    second: YOU_DEATH_13
+  - first:
+      213: -2983967359248397276
+    second: YOU_DEATH_14
+  - first:
+      213: 6911315904747531100
+    second: YOU_DEATH_15
+  - first:
+      213: 8969620265989543946
+    second: YOU_DEATH_16
+  - first:
+      213: -1874923355394525290
+    second: YOU_DEATH_17
+  - first:
+      213: -5140477595324651059
+    second: YOU_DEATH_18
+  - first:
+      213: 265293277764562456
+    second: YOU_DEATH_19
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -75,7 +132,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -96,39 +153,47 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: caminar5_0
+      name: YOU_DEATH_1
       rect:
         serializedVersion: 2
-        x: 377
-        y: 808
-        width: 2249
-        height: 1745
+        x: 77
+        y: 211
+        width: 1692
+        height: 767
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b6aaaf3800a564d20800000000000000
-      internalID: 3262393938337245803
+      spriteID: fffa5eecda86e1940800000000000000
+      internalID: 5268763709779849215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YOU_DEATH_2
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 830
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fe33b212f533e30800000000000000
+      internalID: 4482030650227158934
       vertices: []
       indices: 
       edges: []
@@ -136,7 +201,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: ed4c5f7bc7c33d74eabf9a88dbbc906b
     internalID: 0
     vertices: []
     indices: 
@@ -144,7 +209,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      caminar5_0: 3262393938337245803
+      YOU_DEATH_0: -578081795
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

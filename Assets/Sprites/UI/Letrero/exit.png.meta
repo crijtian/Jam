@@ -1,10 +1,22 @@
 fileFormatVersion: 2
-guid: 757e16f541f2f1f4abd7ce9758a5aea6
+guid: a8c1a656f1731d64c897bbbbf3a4c6e6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3262393938337245803
-    second: caminar5_0
+      213: -4781373940957465942
+    second: exit_0
+  - first:
+      213: 2577959780943527813
+    second: exit_1
+  - first:
+      213: -2035945475809686306
+    second: exit_2
+  - first:
+      213: 4081774691252351251
+    second: exit_3
+  - first:
+      213: -2372692299797196044
+    second: exit_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,39 +108,47 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: caminar5_0
+      name: exit_1
       rect:
         serializedVersion: 2
-        x: 377
-        y: 808
-        width: 2249
-        height: 1745
+        x: 1095
+        y: 745
+        width: 6
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b6aaaf3800a564d20800000000000000
-      internalID: 3262393938337245803
+      spriteID: 58ff16c13c0c6c320800000000000000
+      internalID: 2577959780943527813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exit_2
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 498
+        width: 490
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edccc4c606edeb3e0800000000000000
+      internalID: -2035945475809686306
       vertices: []
       indices: 
       edges: []
@@ -136,7 +156,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 46cee485e0880da4f9017a9b1009ee0a
     internalID: 0
     vertices: []
     indices: 
@@ -144,7 +164,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      caminar5_0: 3262393938337245803
+      exit_1: 2577959780943527813
+      exit_2: -2035945475809686306
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
