@@ -6,6 +6,7 @@ TagManager:
   tags:
   - p1
   - Enemigo
+  - oleadas
   layers:
   - Default
   - TransparentFX

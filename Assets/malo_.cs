@@ -47,6 +47,7 @@ public class malo_ : MonoBehaviour
 
     private void Muerte()
     {
+        GameObject.FindGameObjectWithTag("oleadas").SendMessage("Sumar", 1);
         Destroy(gameObject);
     }
 
