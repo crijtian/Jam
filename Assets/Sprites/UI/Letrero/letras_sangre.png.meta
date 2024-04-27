@@ -117,6 +117,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -298,7 +311,15 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      letras_sangre_0: -2140063686116077952
+      letras_sangre_1: -6875877816677282078
+      letras_sangre_2: 6514638239274151644
+      letras_sangre_3: 1440431074600948390
+      letras_sangre_4: -8278957532435265678
+      letras_sangre_5: 1939097663500012839
+      letras_sangre_6: 498409163853219825
+      letras_sangre_7: 7629683822881762710
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

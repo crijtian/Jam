@@ -231,6 +231,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1210,7 +1223,53 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      exit_sangre_0: 2823183764507118579
+      exit_sangre_1: 8598355644162105885
+      exit_sangre_10: 3123389455718101570
+      exit_sangre_11: -1649444441809957875
+      exit_sangre_12: 8743344540452835084
+      exit_sangre_13: -8810737412189611281
+      exit_sangre_14: -2415844330663438337
+      exit_sangre_15: -4838668699380341836
+      exit_sangre_16: -3051313521230399843
+      exit_sangre_17: -5542002320835095847
+      exit_sangre_18: -625969560292634407
+      exit_sangre_19: 3533134890629820936
+      exit_sangre_2: 51158040122102801
+      exit_sangre_20: 3221404659820374765
+      exit_sangre_21: -7573027472703542078
+      exit_sangre_22: -2049431757307026262
+      exit_sangre_23: -5749266525756073783
+      exit_sangre_24: 7736327206811528092
+      exit_sangre_25: 2159065724094062563
+      exit_sangre_26: -9147985164100142231
+      exit_sangre_27: 812926064272400926
+      exit_sangre_28: 4284890164481169194
+      exit_sangre_29: -5567823175490345843
+      exit_sangre_3: -6017506246753350667
+      exit_sangre_30: -6782614614923500342
+      exit_sangre_31: 1672138867067647300
+      exit_sangre_32: -7554524030632794684
+      exit_sangre_33: 2767437124313116861
+      exit_sangre_34: 7097107717236557073
+      exit_sangre_35: -7938106713197416038
+      exit_sangre_36: 2801496448522213096
+      exit_sangre_37: 6123235222059378688
+      exit_sangre_38: -1157203001336579740
+      exit_sangre_39: 902730040542645447
+      exit_sangre_4: 3089319438448158402
+      exit_sangre_40: -2389455281960553463
+      exit_sangre_41: -244034144601188812
+      exit_sangre_42: -4941451427463401641
+      exit_sangre_43: -8162139732649295119
+      exit_sangre_44: 1347355486770853870
+      exit_sangre_45: 5533870613250358987
+      exit_sangre_5: -4409917139029625274
+      exit_sangre_6: 4737927794722811054
+      exit_sangre_7: 7343281086418368479
+      exit_sangre_8: -6830869416072361278
+      exit_sangre_9: 3281357638803937996
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
