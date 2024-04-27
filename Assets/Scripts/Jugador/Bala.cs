@@ -20,10 +20,15 @@ public class Bala : MonoBehaviour
     }
 
     //Impacto con el enemigo
-    private void OnTriggerEnter2D(Collider2D other)
+    public void OnTriggerEnter2D(Collider2D other)
     {
         //Proximamanete
         //https://www.youtube.com/watch?v=9Y8GaA9Ka9E
+        if (other.CompareTag("Untagged"))
+        {
+            other.GetComponent<malo_>().TomarDaño(daño);
+            Destroy(gameObject);
+        }
     }
 
     private void OnBecameInvisible()

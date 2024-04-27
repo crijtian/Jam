@@ -4,15 +4,22 @@ using UnityEngine;
 
 public class malo_ : MonoBehaviour
 {
-    [SerializeField]
+
     private GameManager gameManager;
 
     private bool canDamage = false; // Controla si el enemigo puede hacer daño
-    private float initialDelay = 5f; // Delay inicial antes de que el enemigo pueda hacer daño
+    private float initialDelay = 2f; // Delay inicial antes de que el enemigo pueda hacer daño
+   
+
+   //creacion de vida del z
+   [SerializeField] private float vida;
 
     private void Start()
     {
-        StartCoroutine(EnableDamageAfterDelay());
+
+        StartCoroutine(EnableDamageAfterDelay()); // Iniciar la corrutina solo una vez al inicio
+        gameManager = FindObjectOfType<GameManager>();
+
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -21,6 +28,21 @@ public class malo_ : MonoBehaviour
         {
             gameManager.PerderVida();
         }
+    }
+
+    //zombie muere si asume daño
+    public void TomarDaño(float daño)
+    {
+        vida -= daño;
+        if (vida <= 0)
+        {
+            Muerte();
+        }
+    }
+
+    private void Muerte()
+    {
+        Destroy(gameObject);
     }
 
     IEnumerator EnableDamageAfterDelay()
