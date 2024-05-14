@@ -1,4 +1,6 @@
 # GameJam
 
-Ustedes son de lo peor para gestionar repositorios
+No es cierto, solo les falta aprender para no explotar las cosas como dinamita marca _ACME_
+
+
 
